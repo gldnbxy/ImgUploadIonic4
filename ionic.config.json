@@ -1,5 +1,7 @@
 {
   "name": "imgUp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
